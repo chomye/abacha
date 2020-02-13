@@ -1,0 +1,49 @@
+body{
+    font-size: 20px;
+}
+
+.sub{
+    font-size: 16px;
+
+}
+
+form{
+    border: 2px solid brown;
+    padding: 30px;
+    background: grey;
+}
+
+#form{
+    margin: 25px;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.input{
+    margin: 20px;
+    padding: 12px;
+    width: 400px;
+    border-radius: 20px;
+
+}
+
+.sub{
+    border: 2px solid;
+    border-radius: 20px;
+    background-color: darkred;
+    color: beige;
+}
+
+label{
+    text-align: justify;
+    
+}
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: firebrick; 
+    color: antiquewhite;
+}

@@ -1,0 +1,58 @@
+body{
+    background: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+
+
+#form{
+    margin: 30px;
+    border: 10px solid rgb(163, 170, 153);
+    padding: 30px;
+    border-radius: 24px;
+    outline: 3px solid red;
+    outline-offset: 2px;
+    
+    
+}
+
+.info{
+    margin: 20px;
+    padding: 30px;
+}
+
+#add{
+    color: orange;
+}
+
+#cust{
+    font-size: 20px;
+}
+
+.ser{
+    font-style: oblique;
+}
+
+.con{
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+}
+
+textarea{
+    width: 700px;
+    height: 300px;
+}
+
+ol li{
+    display: inline;
+    position: relative;
+    font-size: 30px;
+    margin: 40px;
+}
+
+footer{
+    background-color: darkgray;
+     color:crimson;
+      font-size: 40px;
+}
