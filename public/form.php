@@ -92,12 +92,12 @@ $order = find_order_by_id($id);
 <script>
 let quantity = document.getElementById('quantity');
 let price = document.getElementById('price');
-
+let initial = price.value;
 quantity.addEventListener("change",()=>{
-
-  
+price.innerText = initial;
 let total = parseInt(quantity.value, 10) * parseInt(price.value, 10);
 price.innerText = total;
+
 
 });
 
